@@ -186,7 +186,7 @@ export default function Header({ language, setLanguage }) {
                   )}
                 </button>
                 {isOpen && (
-                  <ul className="absolute right-0 mt-2 pb-2 bg-[#809A96] text-[#16240F] shadow-md rounded w-40 z-50">
+                  <ul className="absolute right-0 mt-2 pb-2 bg-[#809A96] text-[#16240F] shadow-md rounded w-full z-50">
                     <li>
                       <button
                         onClick={() => handleLanguageChange("en")}
