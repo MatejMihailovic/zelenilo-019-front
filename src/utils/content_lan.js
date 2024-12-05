@@ -23,7 +23,7 @@ const content = {
         },
         { 
           title: "WINEYARDS AND ORCHARDS", 
-          description: "Ulepšavamo zarasle i napuštene vinograde i voćnjake.",
+          description: "We beautify overgrown and abandoned vineyards and orchards.",
           afterImage: afterImage2
         }
       ],

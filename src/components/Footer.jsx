@@ -8,7 +8,7 @@ export default function Footer({ language }) {
   return (
     <footer className="bg-[#16240F] text-white py-8">
       <section
-        className="contact py-16 bg-cover bg-center text-white text-center"
+        className="contact px-4 py-16 bg-cover bg-center text-white text-center"
       >
         <h2 className="text-3xl font-semibold text-[#AECA59] mb-6">
           {currentContent.contactTitle}
