@@ -23,10 +23,10 @@ export default function Footer({ language }) {
           </a>{" "}
           {currentContent.call}{" "}
           <a
-            href="tel:+38162844544"
+            href="tel:+381628434544"
             className="underline text-[#AECA59] font-bold"
           >
-            (+381) 62 844 544
+            (+381) 62 843 4544
           </a>
           .
         </p>

@@ -14,7 +14,7 @@ export default function ContactPage({language}) {
           </p>
           <p className="text-lg mb-2">
             <strong>{currentContent.phoneTitle}</strong>{" "}
-            <a href="tel:+38162844544" className="text-[#AECA59] hover:underline">
+            <a href="tel:+381628434544" className="text-[#AECA59] hover:underline">
               {currentContent.phoneText}
             </a>
           </p>
